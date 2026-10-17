@@ -1,0 +1,22 @@
+{
+  "name": "plastic-product-motion",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "test:render": "remotion render src/index.ts PlasticJourney out/test-10s.mp4 --frames=0-299 --browser-executable=/usr/bin/chromium --concurrency=2 --muted --crf=16 --pixel-format=yuv420p --gl=swangle",
+    "render": "remotion render src/index.ts PlasticJourney out/plastic-product-60s.mp4 --browser-executable=/usr/bin/chromium --concurrency=2 --muted --crf=16 --pixel-format=yuv420p --gl=swangle"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.409",
+    "remotion": "4.0.409",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "@types/react": "19.1.16",
+    "@types/react-dom": "19.1.9"
+  }
+}
