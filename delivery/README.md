@@ -14,3 +14,7 @@
 4. 下载源码时点击 ZIP 文件，再点击 **Download raw file**。
 
 若仓库为私有仓库，请先登录拥有该仓库访问权限的 GitHub 账号。
+
+## 瑞晨欣 RCX 水印
+
+`rcx-watermark.png` 为透明底 PNG，2172×724 像素。点击文件后，使用右上角 **Download raw file** 下载原图。
