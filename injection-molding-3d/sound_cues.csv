@@ -1,0 +1,6 @@
+file,timeline_start_seconds,length_seconds,audible_windows_seconds,description
+motor.wav,0,30,0.2–22,电机启动、螺杆转动、低频运行
+pellets.wav,0,30,0.2–4.7,塑料颗粒碰撞
+hydraulics.wav,0,30,10–13;22–26.5,注射液压、开模滑动、顶针和脱料
+cooling_water.wav,0,30,16.7–21.8,循环冷却水
+transitions.wav,0,30,5;10;16;22;27;29.4,短科技转场与结束提示

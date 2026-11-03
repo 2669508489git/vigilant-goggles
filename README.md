@@ -36,3 +36,8 @@ npm run render      # 再输出完整 1800 帧 / 60 秒
 ## 浏览器下载成片
 
 交付文件位于 [`delivery/`](delivery/README.md)。在 GitHub 中打开 MP4 或源码 ZIP 文件页面，点击右上角 **Download raw file** 下载。
+
+
+## 注塑成型全过程 · 30秒三维科普动画
+
+新项目位于 [injection-molding-3d/](injection-molding-3d/README.md)，包含1080×1920、30FPS的完整有声版、静音版、独立音效、Blender工程和可修改源码。

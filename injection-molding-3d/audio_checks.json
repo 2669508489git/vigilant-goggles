@@ -1,0 +1,38 @@
+{
+  "sound_effects": {
+    "seconds": 30.0,
+    "sample_rate": 48000,
+    "channels": 2,
+    "peak_dbfs": -12.4
+  },
+  "motor": {
+    "seconds": 30.0,
+    "sample_rate": 48000,
+    "channels": 2,
+    "peak_dbfs": -22.65
+  },
+  "pellets": {
+    "seconds": 30.0,
+    "sample_rate": 48000,
+    "channels": 2,
+    "peak_dbfs": -18.15
+  },
+  "hydraulics": {
+    "seconds": 30.0,
+    "sample_rate": 48000,
+    "channels": 2,
+    "peak_dbfs": -12.87
+  },
+  "cooling_water": {
+    "seconds": 30.0,
+    "sample_rate": 48000,
+    "channels": 2,
+    "peak_dbfs": -23.06
+  },
+  "transitions": {
+    "seconds": 30.0,
+    "sample_rate": 48000,
+    "channels": 2,
+    "peak_dbfs": -32.04
+  }
+}

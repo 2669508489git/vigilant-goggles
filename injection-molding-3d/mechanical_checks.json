@@ -1,0 +1,17 @@
+{
+  "checks": "passed",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 900,
+  "duration": 30,
+  "mold_closed_during_injection": true,
+  "screw_retracts_during_plasticizing": true,
+  "screw_advances_without_rotation_during_injection": true,
+  "ejection_after_opening": true,
+  "ejected_part_clears_fixed_mold": true,
+  "screw_handedness_and_rotation_consistent": true,
+  "preview_notes": "Initial framing widened; front platen section removed to expose ejection; helical flight uses continuous radial fin."
+}
